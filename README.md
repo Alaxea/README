@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alicja</h1>
 <h3 align="center">I am student of Computer Science and Software from Warsaw, Poland.</h3>
 
-- 🔭 I’m currently working on [GET_NEXT_LINE](https://github.com/Alaxea/GET_NEXT_LINE.git)
-
 - 🌱 I’m currently learning **C++, C, Java**
 
 - 📫 How to reach me **alicja.stefanska44@gmail.com**
